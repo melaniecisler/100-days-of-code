@@ -6,7 +6,7 @@
 
 **Thoughts:** I feel like I am getting better at Javascript, focusing on one language at a time is much more helpful than dabbling here and there. The UM Bootcamp was great except I wish it wasn't virtual and that everyone gave the same effort. 
 
-**Link to work:** maybe add in github story like (http://www.example.com) or use codepen ?
+**Link to work:** Udemy Web Dev Bootcamp Colt Steele, finished sections 1-4 
 
 ### Day 1: June 27, Monday
 
