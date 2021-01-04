@@ -16,3 +16,12 @@
 
 **Link(s) to work:** Udemy Web Dev Bootcamp Colt Steele, finished sections 5-7 (html forms/tables, CSS basics, CSS selectors)
 
+# 100 Days Of Code - Log
+
+### Day 3: January 03, 2021 Sunday
+
+**Today's Progress**: Worked on Portfolio to add in React JS elements to submit to become Employer React ==> Employer Competetive
+
+**Thoughts:** I feel like I am getting better at Javascript and also React JS. 
+
+**Link to work:** portfolio is on github 
