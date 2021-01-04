@@ -1,3 +1,4 @@
+# 100 Days Of Code - Log
 
 ### Day 1: January 01, 2021 Friday
 
@@ -14,8 +15,6 @@
 **Thoughts** Continued coding on Udemy, feeling good with all of the quizzes. 
 
 **Link(s) to work:** Udemy Web Dev Bootcamp Colt Steele, finished sections 5-7 (html forms/tables, CSS basics, CSS selectors)
-
-# 100 Days Of Code - Log
 
 ### Day 3: January 03, 2021 Sunday
 
