@@ -1,4 +1,3 @@
-# 100 Days Of Code - Log
 
 ### Day 1: January 01, 2021 Friday
 
