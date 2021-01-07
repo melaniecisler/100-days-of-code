@@ -23,3 +23,36 @@
 **Thoughts:** I feel like I am getting better at Javascript and also React JS. 
 
 **Link to work:** portfolio is on github 
+
+### Day 4: January 04, 2021 Monday
+
+**Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished sections 7-9
+
+**Thoughts:** A good review of CSS and completed all exercises. 
+
+**Link to work:** none
+
+### Day 5: January 05, 2021 Tuesday
+
+**Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished sections 9-11
+
+**Thoughts:**  Finished up CSS review, I completed his program from 2016 but he just came out with this new version so basically doing this for repetition
+and to see what has all changed, looks like quite a bit but i'm excited for this fresh information. 
+
+**Link to work:**  none
+
+### Day 6: January 06, 2021 Wednesday
+
+**Today's Progress**: Met with my advisor and we went over removing anything which has homework or project in it in my github which led to me doing some link edits in 
+my github portfolio.
+
+**Thoughts:** I feel like I am getting closer to being employer competitive. 
+
+**Link to work:** https://melaniecisler.github.io/Portfolio/ 
+
+### Day 7: January 07, 2021 Thursday
+
+**Today's Progress**: 
+**Thoughts:**  
+
+**Link to work:** 
