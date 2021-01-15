@@ -52,7 +52,42 @@ my github portfolio.
 
 ### Day 7: January 07, 2021 Thursday
 
-**Today's Progress**: 
-**Thoughts:**  
+**Today's Progress**: worked on resume
+**Thoughts:**  i like the look, just need to evaluate if i should combine by job location.
+
+**Link to work:** https://melaniecisler.github.io/Portfolio/Melanie-Cisler-Resume.pdf 
+
+### Day 8: January 08, 2021 Friday
+
+**Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished sections 12
+**Thoughts:**  CSS Frameworks Bootstrap
+
+**Link to work:** none
+
+### Day 9: January 09, 2021 Saturday
+
+**Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished sections 13
+**Thoughts:**  Museum of Candy Project
+
+**Link to work:** 
+
+### Day 10: January 10, 2021 Sunday
+
+**Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished sections 14
+**Thoughts:**  JavaScript Basics, good review. 
+
+**Link to work:** 
+
+### Day 10: January 11, 2021 Monday
+
+**Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished sections 15
+**Thoughts:**  JavaScript Strings and More
+
+**Link to work:** 
+
+### Day 10: January 12, 2021 Tuesday
+
+**Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished sections 16
+**Thoughts:**  JavaScript Decision Making
 
 **Link to work:** 
