@@ -72,7 +72,7 @@ my github portfolio.
 
 **Thoughts:**  Museum of Candy Project
 
-**Link to work:** 
+**Link to work:** none
 
 ### Day 10: January 10, 2021 Sunday
 
@@ -80,20 +80,28 @@ my github portfolio.
 
 **Thoughts:**  JavaScript Basics, good review. 
 
-**Link to work:** 
+**Link to work:** none
 
-### Day 10: January 11, 2021 Monday
+### Day 11: January 11, 2021 Monday
 
 **Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished sections 15
 
 **Thoughts:**  JavaScript Strings and More
 
-**Link to work:** 
+**Link to work:** none
 
-### Day 10: January 12, 2021 Tuesday
+### Day 12: January 12, 2021 Tuesday
 
 **Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished sections 16
 
 **Thoughts:**  JavaScript Decision Making
 
-**Link to work:** 
+**Link to work:** none
+
+### Day 13: January 13, 2021 Wednesday
+
+**Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished sections 17
+
+**Thoughts:**  JavaScript Arrays
+
+**Link to work:** none
