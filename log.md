@@ -105,3 +105,59 @@ my github portfolio.
 **Thoughts:**  JavaScript Arrays
 
 **Link to work:** none
+
+### Day 14: January 14, 2021 Thursday
+
+**Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished sections 18
+
+**Thoughts:**  JavaScript Object Literals
+
+**Link to work:** none
+
+### Day 15: January 15, 2021 Friday
+
+**Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished sections 19
+
+**Thoughts:**  JavaScript Repeating with Loops
+
+**Link to work:** none
+
+### Day 16: January 16, 2021 Saturday
+
+**Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished sections 20
+
+**Thoughts:**  JavaScript Functions
+
+**Link to work:** none
+
+### Day 17: January 17, 2021 Sunday
+
+**Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished sections 21
+
+**Thoughts:**  JavaScript Leveling up Functions
+
+**Link to work:** none
+
+### Day 18: January 18, 2021 Monday
+
+**Today's Progress**: updated feedback from resume
+
+**Thoughts:**  none
+
+**Link to work:** none
+
+### Day 19: January 19, 2021 Tuesday
+
+**Today's Progress**: updated portfolio with final feedback
+
+**Thoughts:**  none
+
+**Link to work:** none
+
+### Day 20: January 20, 2021 Wednesday
+
+**Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished sections 22
+
+**Thoughts:**  JavaScript Callbacks and Array Methods
+
+**Link to work:** none
