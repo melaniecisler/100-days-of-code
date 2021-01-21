@@ -156,8 +156,16 @@ my github portfolio.
 
 ### Day 20: January 20, 2021 Wednesday
 
-**Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished sections 22
+**Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished section 22
 
 **Thoughts:**  JavaScript Callbacks and Array Methods
+
+**Link to work:** none
+
+### Day 21: January 21, 2021 Thursday
+
+**Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished section 23
+
+**Thoughts:**  JavaScript Newer Features
 
 **Link to work:** none
