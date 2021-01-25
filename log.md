@@ -169,3 +169,48 @@ my github portfolio.
 **Thoughts:**  JavaScript Newer Features
 
 **Link to work:** none
+
+
+### Day 22: January 22, 2021 Friday
+
+**Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished section 24
+
+**Thoughts:**  JavaScript DOM
+
+**Link to work:** none
+
+
+### Day 23: January 23, 2021 Saturday
+
+**Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished section 
+
+**Thoughts:**  JavaScript 
+
+**Link to work:** none
+
+
+### Day 24: January 24, 2021 Sunday
+
+**Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished section 
+
+**Thoughts:**  JavaScript 
+
+**Link to work:** none
+
+
+### Day 25: January 25, 2021 Monday
+
+**Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished section 
+
+**Thoughts:**  JavaScript 
+
+**Link to work:** none
+
+
+### Day 26: January 26, 2021 Tuesday
+
+**Today's Progress**: Udemy Web Dev Bootcamp Colt Steele, finished section 
+
+**Thoughts:**  JavaScript 
+
+**Link to work:** none
