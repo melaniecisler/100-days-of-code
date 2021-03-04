@@ -214,3 +214,43 @@ my github portfolio.
 **Thoughts:**  JavaScript 
 
 **Link to work:** none
+
+### Day 27: Feb 14, 2021 
+
+**Today's Progress**:  LinkedIn Learning ASP.NET Course
+
+**Thoughts:**   completed, very useful
+
+**Link to work:** none
+
+### Day 28: Feb 27, 2021 
+
+**Today's Progress**: LinkedIn Learning Docker for Windows Course
+
+**Thoughts:**  Completed
+
+**Link to work:** none
+
+### Day 29: Fed 28, 2021 
+
+**Today's Progress**: linkedIn Learning Learning Docker Course
+
+**Thoughts:**  Completed
+
+**Link to work:** none
+
+### Day 30: March 3, 2021 
+
+**Today's Progress**: linkedIn Learning: HTML Essential Training Course 
+
+**Thoughts:**  Completed
+
+**Link to work:** none
+
+### Day 31: March 4, 2021 
+
+**Today's Progress**: Udemy Web Dev Bootcamp 2021
+
+**Thoughts:**  Section 28 AJAX and API's
+
+**Link to work:** none
