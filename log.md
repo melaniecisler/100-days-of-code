@@ -251,6 +251,14 @@ my github portfolio.
 
 **Today's Progress**: Udemy Web Dev Bootcamp 2021
 
-**Thoughts:**  Section 28 AJAX and API's
+**Thoughts:**  Section 28 AJAX and API's, section 29 Prototypes, Classes and OOP. 
+
+**Link to work:** none
+
+### Day 32: March 5, 2021 
+
+**Today's Progress**: Udemy Web Dev Bootcamp 2021
+
+**Thoughts:**  
 
 **Link to work:** none
