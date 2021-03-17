@@ -259,6 +259,110 @@ my github portfolio.
 
 **Today's Progress**: Udemy Web Dev Bootcamp 2021
 
-**Thoughts:**  
+**Thoughts:**  Section 29 Prototypes, Class and & OOP
+
+**Link to work:** none
+
+### Day 33: March 6, 2021 
+
+**Today's Progress**: Udemy Web Dev Bootcamp 2021
+
+**Thoughts:**  Section 
+
+**Link to work:** none
+
+### Day 34: March 7, 2021 
+
+**Today's Progress**: Udemy Web Dev Bootcamp 2021
+
+**Thoughts:**  Section 
+
+**Link to work:** none
+
+### Day 35: March 8, 2021 
+
+**Today's Progress**: Udemy Web Dev Bootcamp 2021
+
+**Thoughts:**  Section 
+
+**Link to work:** none
+
+### Day 36: March 9, 2021 
+
+**Today's Progress**: Udemy Web Dev Bootcamp 2021
+
+**Thoughts:**  Section 
+
+**Link to work:** none
+
+### Day 37: March 10, 2021 
+
+**Today's Progress**: Udemy Web Dev Bootcamp 2021
+
+**Thoughts:**  Section 
+
+**Link to work:** none
+
+### Day 38: March 11, 2021 
+
+**Today's Progress**: Udemy Web Dev Bootcamp 2021
+
+**Thoughts:**  Section 
+
+**Link to work:** none
+
+### Day 39: March 12, 2021 
+
+**Today's Progress**: Udemy Web Dev Bootcamp 2021
+
+**Thoughts:**  Section 
+
+**Link to work:** none
+
+### Day 40: March 13, 2021 
+
+**Today's Progress**: Udemy Web Dev Bootcamp 2021
+
+**Thoughts:**  Section 
+
+**Link to work:** none
+
+### Day 41: March 14, 2021 
+
+**Today's Progress**: Udemy Web Dev Bootcamp 2021
+
+**Thoughts:**  Section 
+
+**Link to work:** none
+
+### Day 42: March 15, 2021 
+
+**Today's Progress**: Udemy Web Dev Bootcamp 2021
+
+**Thoughts:**  Section 
+
+**Link to work:** none
+
+### Day 43: March 16, 2021 
+
+**Today's Progress**: Udemy Web Dev Bootcamp 2021
+
+**Thoughts:**  Section 
+
+**Link to work:** none
+
+### Day 44: March 17, 2021 
+
+**Today's Progress**: Udemy Web Dev Bootcamp 2021
+
+**Thoughts:**  Section 
+
+**Link to work:** none
+
+### Day 45: March 18, 2021 
+
+**Today's Progress**: Udemy Web Dev Bootcamp 2021
+
+**Thoughts:**  Section
 
 **Link to work:** none
