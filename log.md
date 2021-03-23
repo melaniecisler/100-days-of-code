@@ -280,33 +280,33 @@ my github portfolio.
 
 ### Day 35: March 8, 2021 
 
-**Today's Progress**: Udemy Web Dev Bootcamp 2021
+**Today's Progress**: Udemy The git and Github Bootcamp by Colt Steele 
 
-**Thoughts:**  Section 
+**Thoughts:**  Section 1, 2, 3
 
 **Link to work:** none
 
 ### Day 36: March 9, 2021 
 
-**Today's Progress**: Udemy Web Dev Bootcamp 2021
+**Today's Progress**: Udemy The git and Github Bootcamp by Colt Steele 
 
-**Thoughts:**  Section 
+**Thoughts:**  Section 4
 
 **Link to work:** none
 
 ### Day 37: March 10, 2021 
 
-**Today's Progress**: Udemy Web Dev Bootcamp 2021
+**Today's Progress**: Udemy The git and Github Bootcamp by Colt Steele 
 
-**Thoughts:**  Section 
+**Thoughts:**  Section 5
 
 **Link to work:** none
 
 ### Day 38: March 11, 2021 
 
-**Today's Progress**: Udemy Web Dev Bootcamp 2021
+**Today's Progress**: Udemy The git and Github Bootcamp by Colt Steele 
 
-**Thoughts:**  Section 
+**Thoughts:**  Section 6
 
 **Link to work:** none
 
