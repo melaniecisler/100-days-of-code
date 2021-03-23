@@ -352,19 +352,19 @@ my github portfolio.
 
 ### Day 44: March 17, 2021 
 
-**Today's Progress**: 
+**Today's Progress**: Worked on keypath project
 
-**Thoughts:**  Section 
+**Thoughts:**  make additional changes after time limit  
 
-**Link to work:** none
+**Link to work:** https://codepen.io/macisler44/pen/wvobEMj 
 
 ### Day 45: March 18, 2021 
 
-**Today's Progress**: 
+**Today's Progress**: submitted keypath project 
 
-**Thoughts:**  Section
+**Thoughts:**  should have made changes in git to track
 
-**Link to work:** none
+**Link to work:** https://codepen.io/macisler44/pen/wvobEMj
 
 ### Day 46: March 19, 2021 
 
