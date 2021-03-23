@@ -312,15 +312,15 @@ my github portfolio.
 
 ### Day 39: March 12, 2021 
 
-**Today's Progress**: Udemy Web Dev Bootcamp 2021
+**Today's Progress**: Udemy The git and Github Bootcamp by Colt Steele 
 
-**Thoughts:**  Section 
+**Thoughts:**  Section 7
 
 **Link to work:** none
 
 ### Day 40: March 13, 2021 
 
-**Today's Progress**: Udemy Web Dev Bootcamp 2021
+**Today's Progress**: 
 
 **Thoughts:**  Section 
 
@@ -328,7 +328,7 @@ my github portfolio.
 
 ### Day 41: March 14, 2021 
 
-**Today's Progress**: Udemy Web Dev Bootcamp 2021
+**Today's Progress**: 
 
 **Thoughts:**  Section 
 
@@ -336,7 +336,7 @@ my github portfolio.
 
 ### Day 42: March 15, 2021 
 
-**Today's Progress**: Udemy Web Dev Bootcamp 2021
+**Today's Progress**: 
 
 **Thoughts:**  Section 
 
@@ -344,7 +344,7 @@ my github portfolio.
 
 ### Day 43: March 16, 2021 
 
-**Today's Progress**: Udemy Web Dev Bootcamp 2021
+**Today's Progress**: 
 
 **Thoughts:**  Section 
 
@@ -352,7 +352,7 @@ my github portfolio.
 
 ### Day 44: March 17, 2021 
 
-**Today's Progress**: Udemy Web Dev Bootcamp 2021
+**Today's Progress**: 
 
 **Thoughts:**  Section 
 
@@ -360,8 +360,170 @@ my github portfolio.
 
 ### Day 45: March 18, 2021 
 
-**Today's Progress**: Udemy Web Dev Bootcamp 2021
+**Today's Progress**: 
 
 **Thoughts:**  Section
 
 **Link to work:** none
+
+### Day 46: March 19, 2021 
+
+**Today's Progress**: 
+
+**Thoughts:**  Section
+
+**Link to work:** none
+
+### Day 47: March 20, 2021 
+
+**Today's Progress**: 
+
+**Thoughts:**  Section
+
+**Link to work:** none
+
+### Day 48: March 21, 2021 
+
+**Today's Progress**: 
+
+**Thoughts:**  Section
+
+**Link to work:** none
+
+### Day 49: March 22, 2021 
+
+**Today's Progress**: 
+
+**Thoughts:**  Section
+
+**Link to work:** none
+
+### Day 50: March 23, 2021 
+
+**Today's Progress**: 
+
+**Thoughts:**  Section
+
+**Link to work:** none
+
+### Day 51: March 24, 2021 
+
+**Today's Progress**: 
+
+**Thoughts:**  Section
+
+**Link to work:** none
+
+### Day 52: March 25, 2021 
+
+**Today's Progress**: 
+
+**Thoughts:**  Section
+
+**Link to work:** none
+
+### Day 53: March 26, 2021 
+
+**Today's Progress**: 
+
+**Thoughts:**  Section
+
+**Link to work:** none
+
+### Day 54: March 27, 2021 
+
+**Today's Progress**: 
+
+**Thoughts:**  Section
+
+**Link to work:** none
+
+### Day 55: March 28, 2021 
+
+**Today's Progress**: 
+
+**Thoughts:**  Section
+
+**Link to work:** none
+
+### Day 56: March 29, 2021 
+
+**Today's Progress**: 
+
+**Thoughts:**  Section
+
+**Link to work:** none
+
+### Day 57: March 30, 2021 
+
+**Today's Progress**: 
+
+**Thoughts:**  Section
+
+**Link to work:** none
+
+### Day 58: March 31, 2021 
+
+**Today's Progress**: 
+
+**Thoughts:**  Section
+
+**Link to work:** none
+
+### Day 59: April 1, 2021 
+
+**Today's Progress**: 
+
+**Thoughts:**  Section
+
+**Link to work:** none
+
+### Day 60: April 2, 2021 
+
+**Today's Progress**: 
+
+**Thoughts:**  Section
+
+**Link to work:** none
+
+### Day 61: April 3, 2021 
+
+**Today's Progress**: 
+
+**Thoughts:**  Section
+
+**Link to work:** none
+
+### Day 62: April 4, 2021 
+
+**Today's Progress**: 
+
+**Thoughts:**  Section
+
+**Link to work:** none
+
+### Day 63: April 5, 2021 
+
+**Today's Progress**: 
+
+**Thoughts:**  Section
+
+**Link to work:** none
+
+### Day 64: April 6, 2021 
+
+**Today's Progress**: 
+
+**Thoughts:**  Section
+
+**Link to work:** none
+
+### Day 65: April 7, 2021 
+
+**Today's Progress**: 
+
+**Thoughts:**  Section
+
+**Link to work:** none
+
+
