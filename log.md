@@ -265,17 +265,16 @@ my github portfolio.
 
 ### Day 33: March 6, 2021 
 
-**Today's Progress**: Udemy Web Dev Bootcamp 2021
-
-**Thoughts:**  Section 
+**Today's Progress**: Udemy Javascript Essentials
+**Thoughts:**  Section 1, 2, 3
 
 **Link to work:** none
 
 ### Day 34: March 7, 2021 
 
-**Today's Progress**: Udemy Web Dev Bootcamp 2021
+**Today's Progress**: Udemy Javascript Essentials
 
-**Thoughts:**  Section 
+**Thoughts:**  Section 4, 5, Finished
 
 **Link to work:** none
 
